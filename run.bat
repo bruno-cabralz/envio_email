@@ -1,0 +1,1 @@
+"c:/Users/bruno/Desktop/Nova pasta/env/Scripts/python.exe" "c:/Users/bruno/Desktop/Nova pasta/main.py"
