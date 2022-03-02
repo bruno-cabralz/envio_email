@@ -1,4 +1,4 @@
-# Relatório Vagas Cadmus
+# Envio do Workmap para varios e-mails
 Essa solução foi desenvolvida utilizando puramente a linguagem de programação Python com algumas biblioteca afim de automatizar o envio e-mails contendo um aqruivo .pptx anexado e uma mensagem.
   
 
