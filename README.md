@@ -7,7 +7,7 @@ Essa solução foi desenvolvida utilizando puramente a linguagem de programaçã
 <table align="center">
   <tr>
 	<td  align="center"><a  href="https://github.com/bruno-cabralz"><img  style="border-radius: 50%;"  src="https://avatars.githubusercontent.com/u/76916533?v=4"  width="100px;"  alt=""/><br /><sub><b>Bruno Cabral</b></sub></a>
-><br />
+<br />
 </td>
 </table>
 
